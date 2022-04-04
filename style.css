@@ -55,6 +55,12 @@ button {
 
 }
 
+
+.valortotal{
+text-align: center;
+  width: 50px;
+}
+
 #new {
   font-size: 16px;
   padding: 8px;
