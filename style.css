@@ -139,6 +139,12 @@ tbody tr td.acao {
 .header-2{
     font-size: 15px;
   }
+  
+  .valortotal{
+text-align: center;
+  width: 50px;
+font-size:10px
+}
 
   #new {
     padding: 5px;
