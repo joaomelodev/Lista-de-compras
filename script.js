@@ -156,12 +156,3 @@ function final(data) {
   return totalItems;
 
 }
-
-
-function alerta() {
-
-if (totalItems >  value) {
-
-}
-
-}
