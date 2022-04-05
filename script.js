@@ -83,7 +83,7 @@ btnSalvar.onclick = e => {
 		itens[id].quantidade = sQuantidade.value
 		itens[id].valor = sValor.value
 		itens[id].total = sValor.value * sQuantidade.value
-    itens[id].valortotal = sValorTotal
+  
 	} else {
 		itens.push({
 			'alimento': sAlimento.value,
@@ -154,5 +154,14 @@ function final(data) {
   }
 
   return totalItems;
+
+}
+
+
+function alerta() {
+
+if (totalItems >  value) {
+
+}
 
 }
